@@ -1,6 +1,7 @@
 // Dispatch to default queue
 // 
 //
+// IDECodeSnippetCompletionPrefix: dispbg
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 9D77E641-47A4-49DF-8D10-143EAA2734B9
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
