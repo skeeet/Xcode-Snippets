@@ -1,4 +1,4 @@
-// strong property
+// property  strong
 // 
 //
 // IDECodeSnippetCompletionPrefix: sss
