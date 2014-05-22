@@ -1,4 +1,4 @@
-// weak property
+// property  weak
 // 
 //
 // IDECodeSnippetCompletionPrefix: www
