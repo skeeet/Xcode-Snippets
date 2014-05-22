@@ -1,6 +1,7 @@
 // Promise catch
 // 
 //
+// IDECodeSnippetCompletionPrefix: pmkcatch
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: D511A63E-83B1-4149-A3FE-B1E07A5247AC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
