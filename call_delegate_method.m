@@ -1,6 +1,7 @@
 // call delegate method
 // 
 //
+// IDECodeSnippetCompletionPrefix: safecall
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: EF74F96E-B259-4113-9EDC-08FAAE645114
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
