@@ -10,5 +10,7 @@
 //error handling
 .catch(^(NSError*error)
 {
+    [SVProgressHUD showErrorWithStatus:error.localizedDescription];
+    DDLogError(@"%@",error);
    <#path#>
 });
