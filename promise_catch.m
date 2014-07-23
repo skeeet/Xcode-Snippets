@@ -7,7 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-//error handling
 .catch(^(NSError*error)
 {
     [SVProgressHUD showErrorWithStatus:error.localizedDescription];
